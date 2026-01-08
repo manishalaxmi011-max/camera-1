@@ -12,7 +12,6 @@
     clip-path: polygon(0 0, 100% 10%, 100% 100%, 0 100%);
 }
 
-/* Custom Text Stroke Utility */
 .stroke-white {
     -webkit-text-stroke: 1px white;
     color: transparent;
