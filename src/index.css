@@ -16,6 +16,10 @@
     -webkit-text-stroke: 1px white;
     color: transparent;
 }
+.stroke {
+    -webkit-text-stroke: 1px white;
+    color: transparent;
+}
 
 .stroke-2 {
     -webkit-text-stroke-width: 2px;
